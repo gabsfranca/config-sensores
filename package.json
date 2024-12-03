@@ -1,0 +1,23 @@
+{
+  "name": "simopas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "solid-start dev",
+    "build": "solid-start build",
+    "start": "solid-start start"
+  },
+  "dependencies": {
+    "@tauri-apps/api": "^2.1.1",
+    "solid-js": "latest",
+    "solid-start": "latest"
+  },
+  "devDependencies": {
+    "vite": "latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
